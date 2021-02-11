@@ -13,5 +13,5 @@ List of college projects by undergraduates from 076 Batch, Pulchowk Campus.
 ## Object Oriented Programming in C++ Project
 * [HeadBall](https://github.com/RujalAcharya/HeadBall) - @jarp0l (bei023), @RujalAcharya (bei029), @Sanjay-kc (bei038) and @silwalasmin (bei040)
 
-* [OCR-ENGINE-LITE](https://github.com/DevPro13/OCR-ENGINE-LITE) -@akanksha613 (bei004) and @devpro13 (bei013)
+* [OCR-ENGINE-LITE](https://github.com/DevPro13/OCR-ENGINE-LITE) - @akanksha613 (bei004) and @DevPro13 (bei013)
 
