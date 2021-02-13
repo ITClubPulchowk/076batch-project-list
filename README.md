@@ -16,3 +16,6 @@ List of college projects by undergraduates from 076 Batch, Pulchowk Campus.
 
 * [OCR-ENGINE-LITE](https://github.com/DevPro13/OCR-ENGINE-LITE) - @akanksha613 (bei004) and @DevPro13 (bei013)
 
+* [DE-U](https://github.com/anju-chhetri/DE-U) - @anju-chhetri (BEI005), @AashmaYonghang (BEI007)
+
+
