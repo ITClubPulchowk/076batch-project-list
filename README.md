@@ -19,3 +19,10 @@ List of college projects by undergraduates from 076 Batch, Pulchowk Campus.
 * [DE-U](https://github.com/anju-chhetri/DE-U) - @anju-chhetri (BEI005), @AashmaYonghang (BEI007)
 
 
+---
+
+Follow this format while adding your project:
+
+```
+* [name of project](link to the project) - @username (roll number)
+```
