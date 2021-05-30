@@ -24,5 +24,5 @@ List of college projects by undergraduates from 076 Batch, Pulchowk Campus.
 Follow this format while adding your project:
 
 ```
-* [name of project](link to the project) - @username (roll number)
+* [name of project](link to the project) - @username (roll number), @username (roll number) *(add according to the number of students)*
 ```
