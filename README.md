@@ -20,7 +20,7 @@ List of college projects by undergraduates from 076 Batch, Pulchowk Campus.
 
 * [Kshetra- A Vector Field Plotter](https://github.com/aabhusanaryal/Kshetra) - @aabhusanaryal (BCT001), @moagr (BCT035) @prabigyaacharya (BCT043)
 
-
+* [Undestined](https://github.com/Pramish-Aryal/Undestined) - @Pramish-Aryal (BCT046), @Nisan-Shrestha (BCT040)
 
 ---
 
