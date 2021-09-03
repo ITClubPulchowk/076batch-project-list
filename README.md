@@ -22,6 +22,8 @@ List of college projects by undergraduates from 076 Batch, Pulchowk Campus.
 
 * [Undestined](https://github.com/Pramish-Aryal/Undestined) - @Pramish-Aryal (BCT046), @Nisan-Shrestha (BCT040)
 
+* [Chess](https://github.com/Yunika-Bajracharya/Chess) - @shresprbn (BCT067), @suban244 (BCT082), and @Yunika-Bajracharya (BCT095)
+
 ---
 
 Follow this format while adding your project:
