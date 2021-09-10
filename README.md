@@ -24,6 +24,7 @@ List of college projects by undergraduates from 076 Batch, Pulchowk Campus.
 
 * [Chess](https://github.com/Yunika-Bajracharya/Chess) - @shresprbn (BCT067), @suban244 (BCT082), and @Yunika-Bajracharya (BCT095)
 
+* [Library management system with QT](https://github.com/pramesh025/LibraryMS) - @pramesh025 (BEI025), @sussanstha (BEI028), @Sandesh-sitaula (BEI035), @kshitiz-Pandey (BEI019)
 ---
 
 Follow this format while adding your project:
