@@ -27,6 +27,7 @@ List of college projects by undergraduates from 076 Batch, Pulchowk Campus.
 
 * [Library management system with QT](https://github.com/pramesh025/LibraryMS) - @pramesh025 (BEI025), @sussanstha (BEI028), @Sandesh-sitaula (BEI035), @kshitiz-Pandey (BEI019)
 
+* [AAWAJ ](https://github.com/dhakalmahima188/Aawaj) - @dhakalmahima188(bct033), @Nadika18 (bct038) @liza (bct032)
 ---
 
 Follow this format while adding your project:
