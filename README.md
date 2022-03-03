@@ -32,7 +32,7 @@ List of college projects by undergraduates from 076 Batch, Pulchowk Campus.
 ---
 
 ## DSA Project
-* 
+* [Dhwani](https://github.com/aabhusanaryal/dhwani) - @aabhusanaryal(BCT001), @moagr(BCT035), @prabigyaacharya(BCT043)
 
 ---
 
