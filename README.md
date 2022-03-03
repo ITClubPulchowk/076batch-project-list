@@ -31,6 +31,16 @@ List of college projects by undergraduates from 076 Batch, Pulchowk Campus.
 
 ---
 
+## DSA Project
+* 
+
+---
+
+## Computer Graphics Project
+* 
+
+---
+
 Follow this format while adding your project:
 
 ```
