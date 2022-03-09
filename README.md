@@ -34,12 +34,14 @@ List of college projects by undergraduates from 076 Batch, Pulchowk Campus.
 ## DSA Project
 * [Dhwani - A Music Player](https://github.com/aabhusanaryal/dhwani) - @aabhusanaryal(BCT001), @moagr(BCT035), @prabigyaacharya(BCT043)
 * [Voxeloop](https://github.com/jarp0l/Voxeloop) - @jarp0l (bei023) & @RujalAcharya (bei029)
+* [Procedural Village Generation](https://github.com/pramesh025/Procedural-Village-Generation) - @FluxO4 (BEI026), @TriptiSharma047 (BEI047), @pramesh025 (BEI025) 
 * [HuffmanZipper](https://github.com/anju-chhetri/HuffmanZipper) - @anju-chhetri(BEI005) & @AashmaYonghang(BEI007)
 
 ---
 
 ## Computer Graphics Project
 * [Voxeloop](https://github.com/jarp0l/Voxeloop) - @jarp0l (bei023) & @RujalAcharya (bei029)
+* [Procedural Village Generation](https://github.com/pramesh025/Procedural-Village-Generation) - @FluxO4 (BEI026), @TriptiSharma047 (BEI047), @pramesh025 (BEI025) 
 
 ---
 
