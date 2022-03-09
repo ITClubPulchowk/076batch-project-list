@@ -42,6 +42,7 @@ List of college projects by undergraduates from 076 Batch, Pulchowk Campus.
 ## Computer Graphics Project
 * [Voxeloop](https://github.com/jarp0l/Voxeloop) - @jarp0l (bei023) & @RujalAcharya (bei029)
 * [Procedural Village Generation](https://github.com/pramesh025/Procedural-Village-Generation) - @FluxO4 (BEI026), @TriptiSharma047 (BEI047), @pramesh025 (BEI025) 
+* [Shortest Path Finder](https://github.com/Sanjay-kc/ShortestPathFinder) - @Dikshya-Parajuli (076BEI041), @Prakriti03 (076BEI024), Lincoln Basnet(076BEI020), @Sanjay-kc (076BEI038)*
 
 ---
 
