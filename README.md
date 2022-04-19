@@ -29,6 +29,8 @@ List of college projects by undergraduates from 076 Batch, Pulchowk Campus.
 
 * [AAWAJ](https://github.com/dhakalmahima188/Aawaj) - @dhakalmahima188 (bct033), @Nadika18 (bct038), @liza (bct032)
 
+* [BoardGames](https://github.com/avisekksarma/BoardGames) - @avisekksarma (bct004), @adh-aashish (bct003) , @hrishavkhadka (bct027)
+
 ---
 
 ## DSA Project
