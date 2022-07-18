@@ -39,7 +39,7 @@ List of college projects by undergraduates from 076 Batch, Pulchowk Campus.
 * [Procedural Village Generation](https://github.com/pramesh025/Procedural-Village-Generation) - @FluxO4 (BEI026), @TriptiSharma047 (BEI047), @pramesh025 (BEI025) 
 * [HuffmanZipper](https://github.com/anju-chhetri/HuffmanZipper) - @anju-chhetri(BEI005) & @AashmaYonghang(BEI007)
 * [Maze generator and Sorting Visualizer](https://github.com/Yunika-Bajracharya/Hungry-Hackee-Hunts.git) - @reeya00 (BCT057), @Yunika-Bajracharya (BCT095)
-
+* [Pacman](https://github.com/suban244/Pacman) - @shresprbn (BCT067), @suban244 (BCT082), @TakshakBist(BCT093)
 ---
 
 ## Computer Graphics Project
