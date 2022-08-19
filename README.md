@@ -47,7 +47,8 @@ List of college projects by undergraduates from 076 Batch, Pulchowk Campus.
 * [Procedural Village Generation](https://github.com/pramesh025/Procedural-Village-Generation) - @FluxO4 (BEI026), @TriptiSharma047 (BEI047), @pramesh025 (BEI025) 
 
 ---
-
+## Database Management Systems(DBMS) Project
+---
 Follow this format while adding your project:
 
 ```
